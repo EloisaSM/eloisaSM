@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Eloisa</h1>
 <h3 align="center">Full Stack developer in training</h3>
 
-- 📍 From Bragança Paulista in SP.
+- 📍 From Bragança Paulista/SP.
 
 - 🌱 I’m currently learning **Node.js, ReactJs, Javascript, Python and Docker**
 
