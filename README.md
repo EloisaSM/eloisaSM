@@ -3,7 +3,7 @@
 
 - 📍 From Bragança Paulista/SP.
 
-- 🌱 I’m currently learning **Node.js, ReactJs, Javascript, Python and Docker**
+- 🌱 I’m currently work with **ReactJs,Python and Docker**
 
 - 📫 How to reach me **eloisa.smedina@gmail.com**
 
